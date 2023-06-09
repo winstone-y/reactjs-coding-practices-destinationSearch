@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.li {
+  height: 100px;
+  list-style-type: none;
+margin: 10px;
+}
+.image {
+  width: 150px;
+}
+p {
+  font-weight: 500;
+  margin: 0;
+}
