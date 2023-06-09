@@ -1,10 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import App from './App'
+import DestinationSearch from './App'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <DestinationSearch />
   </React.StrictMode>,
   document.getElementById('root'),
 )
